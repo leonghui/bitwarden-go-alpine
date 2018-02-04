@@ -6,5 +6,4 @@ Uses the Go implementation of Bitwarden Core by VictorNine: https://github.com/V
 
 Intended to be used with another Docker container running Bitwarden Web (Vault)
 
-For setup instructions on Synology DSM, see:
-https://github.com/leonghui/bitwarden-go-alpine/wiki/Configure-Docker-in-Synology-DSM
+For setup instructions on Synology DSM, see the wiki
