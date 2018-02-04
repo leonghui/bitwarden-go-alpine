@@ -1,4 +1,4 @@
-FROM golang:alpine
+FROM golang:alpine3.7
 
 ENV VAULT_URL http://localhost:4001
 
