@@ -2,7 +2,7 @@
 
 # bitwarden-go-alpine
 
-[![Docker Automated Build](https://img.shields.io/docker/automated/leonghui/bitwarden-go-alpine.svg)][hub]
+![Docker Automated Build](https://img.shields.io/docker/automated/leonghui/bitwarden-go-alpine.svg)
 
 Uses the Go implementation of Bitwarden Core by [VictorNine](https://github.com/VictorNine/bitwarden-go)
 
