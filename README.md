@@ -2,8 +2,15 @@
 
 # bitwarden-go-alpine
 
-Uses the Go implementation of Bitwarden Core by VictorNine: https://github.com/VictorNine/bitwarden-go
+[![Docker Automated Build](https://img.shields.io/docker/automated/leonghui/bitwarden-go-alpine.svg)][hub]
 
-Intended to be used with another Docker container running Bitwarden Web (Vault)
+Uses the Go implementation of Bitwarden Core by [VictorNine](https://github.com/VictorNine/bitwarden-go)
 
-For setup instructions on Synology DSM, see the wiki: https://github.com/leonghui/bitwarden-go-alpine/wiki
+Intended to be used with another Docker container running Bitwarden Web (Vault), e.g. [bitwarden-web-alpine](https://github.com/leonghui/bitwarden-web-alpine)
+
+For setup instructions on Synology DSM, see the [wiki](https://github.com/leonghui/bitwarden-go-alpine/wiki)
+
+
+
+***
+[bitwarden-go-alpine](https://github.com/leonghui/bitwarden-go-alpine) | [bitwarden-web-alpine](https://github.com/leonghui/bitwarden-web-alpine)
