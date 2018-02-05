@@ -16,7 +16,7 @@ For setup instructions on Synology DSM, see the [wiki][go-wiki]
 [bitwarden-go-alpine][] | [bitwarden-web-alpine][]
 
 [VictorNine]: https://github.com/VictorNine/bitwarden-go
-[hub]: https://hub.docker.com/r/gliderlabs/alpine/
+[hub]: https://hub.docker.com/r/leonghui/bitwarden-go-alpine/
 [bitwarden-web-alpine]: https://github.com/leonghui/bitwarden-web-alpine
 [web-wiki]: https://github.com/leonghui/bitwarden-web-alpine/wiki
 [bitwarden-go-alpine]: https://github.com/leonghui/bitwarden-go-alpine
