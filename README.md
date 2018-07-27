@@ -1,3 +1,6 @@
+### Discontinued! Upstream project is no longer maintained.
+Please export your data from Web Vault and migrate to another project, e.g. [mprasil-bitwarden].
+
 *(Note: This is still a work in progress. This project is not associated with the [Bitwarden][] project nor 8bit Solutions LLC.)*
 
 # bitwarden-go-alpine
@@ -26,3 +29,4 @@ For setup instructions on Synology DSM, see the [wiki][go-wiki]
 [go-hub]: https://hub.docker.com/r/leonghui/bitwarden-go-alpine/
 [bitwarden-go-alpine]: https://github.com/leonghui/bitwarden-go-alpine
 [go-wiki]: https://github.com/leonghui/bitwarden-go-alpine/wiki
+[mprasil-bitwarden]: https://hub.docker.com/r/mprasil/bitwarden/
